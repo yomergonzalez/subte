@@ -1,13 +1,12 @@
 # Subte App
 
 A new Flutter application.
+It shows the current available trips.
 
 ## Getting Started
 
 This app is connected to API:
 https://www.buenosaires.gob.ar/desarrollourbano/transporte/apitransporte/api-doc
-
-It shows the current available trips.
 
 
 This project is a starting point for a Flutter application.
