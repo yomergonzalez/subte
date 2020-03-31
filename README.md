@@ -1,7 +1,8 @@
 # Subte App
 
 A new Flutter application.
-It shows the current available trips.
+
+It shows the current available trips and service alerts.
 
 ## Getting Started
 
