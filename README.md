@@ -5,10 +5,10 @@ A new Flutter application.
 It shows the current available trips and service alerts.
 
 <div style="display:inline">
-  <img src="https://github.com/yomergonzalez/subte/blob/master/screenshots/img0.png?raw=true" width=350">
-  <img src="https://github.com/yomergonzalez/subte/blob/master/screenshots/img1.png?raw=true" width=350">
-  <img src="https://github.com/yomergonzalez/subte/blob/master/screenshots/img2.png?raw=true" width=350">
-  <img src="https://github.com/yomergonzalez/subte/blob/master/screenshots/img3.png?raw=true" width=350">
+  <img src="https://github.com/yomergonzalez/subte/blob/master/screenshots/img0.png?raw=true" width=200">
+  <img src="https://github.com/yomergonzalez/subte/blob/master/screenshots/img1.png?raw=true" width=200">
+  <img src="https://github.com/yomergonzalez/subte/blob/master/screenshots/img2.png?raw=true" width=200">
+  <img src="https://github.com/yomergonzalez/subte/blob/master/screenshots/img3.png?raw=true" width=200">
 </div>
 
 
